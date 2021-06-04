@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @batabyalx
-- 👀 I’m interested in web app development and machine learning. I have built applications on Java, Node.js with SQL and noSQL databases for the industry.
+- 👀 I’m interested in web app development and machine learning. I have built applications on Java, Node.js and Python with SQL and noSQL databases for the industry.
 - 🌱 I’m currently learning React and trying to expand my javascript scripts and my user interface skills.
 - 💞️ I’m looking to collaborate on web applications.
 - 📫 Email: meetmesouravbatabyal@gmail.com
